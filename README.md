@@ -49,6 +49,8 @@ Projeto prático de QA abrangendo o ciclo de vida de testes de software (STLC).
 - Refatoração de testes automatizados
 - Integração contínua com GitHub Actions
 
----
+## Contato
 
 Aberta a oportunidades como QA Júnior.
+
+[LinkedIn](https://www.linkedin.com/in/lee-saeny/)

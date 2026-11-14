@@ -45,9 +45,9 @@ Projeto prático de QA abrangendo o ciclo de vida de testes de software (STLC).
 
 ## Em desenvolvimento
 
-- SQL
-- Refatoração de testes automatizados
-- Integração contínua com GitHub Actions
+- SQL aplicado à validação de dados
+- Ampliação da cobertura de testes manuais e automatizados com Cypress
+- Aprofundamento em manutenção de testes e integração contínua com GitHub Actions
 
 ## Contato
 

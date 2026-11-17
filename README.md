@@ -40,13 +40,13 @@ Portfólio em construção, organizado em ciclos que vão da análise de requisi
 |---|---|
 | Login | Primeiro ciclo manual e automatizado concluído |
 | Catálogo | Primeiro ciclo manual e automatizado concluído |
-| Carrinho | Análise e definição dos requisitos em andamento |
+| Carrinho | Primeiro ciclo manual e automatizado concluído |
 | Checkout | Planejado |
 
 **Entregas dos ciclos concluídos:**
 
-- 8 requisitos funcionais cobertos por 11 casos manuais aprovados.
-- 11 testes automatizados com Cypress, aprovados localmente e no GitHub Actions.
+- 13 requisitos funcionais cobertos por 17 casos manuais aprovados.
+- 17 testes automatizados com Cypress, aprovados localmente e no GitHub Actions.
 - Rastreabilidade entre requisitos, casos manuais e testes automatizados.
 - Investigação de defeito visual com Chrome DevTools, com registro e evidências.
 - Documentação do planejamento, das execuções e dos resultados no Jira, Zephyr Scale e GitHub.
@@ -60,7 +60,7 @@ Os resultados se limitam ao escopo avaliado. O defeito visual QASD-8 permanece a
 
 ## Estudos em andamento
 
-- Ampliação da cobertura de carrinho e checkout
+- Primeiro ciclo de checkout e ampliação progressiva da cobertura
 - Manutenção e organização de testes com Cypress
 - SQL aplicado à validação de dados
 

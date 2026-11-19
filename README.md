@@ -2,11 +2,15 @@
 
 **QA Software Tester | Testes Manuais e Automatizados**
 
-Sou formada em Sistemas da Informação, com trajetória acadêmica em Artes e Design e mais de 13 anos de experiência em projetos personalizados de design aplicados à tatuagem. Essa atuação envolve levantamento de necessidades, análise de viabilidade, planejamento, criação e execução.
+Sou formada em Sistemas de Informação e Design, com especialização em Comportamento Humano e certificação Microsoft Junior QA Software Tester Professional Certificate.
 
-Atualmente, aplico essa experiência de análise e planejamento em projetos de QA. Concluí a certificação Microsoft Junior QA Software Tester Professional Certificate e desenvolvo um portfólio com testes manuais, investigação de defeitos e automação com Cypress.
+Trago mais de 14 anos de experiência no desenvolvimento de projetos personalizados de caráter permanente, envolvendo interpretação de requisitos subjetivos, análise de viabilidade técnica, validação contínua de soluções e alinhamento de expectativas.
 
-Busco minha primeira oportunidade como QA Júnior.
+Minha trajetória também inclui pesquisa acadêmica, investigação de divergências, validação de informações e análise de regras e restrições.
+
+Hoje, aplico essa experiência à qualidade de software, conectando requisitos, riscos, testes e resultados ao longo do desenvolvimento.
+
+Busco uma oportunidade remota como Analista de QA Júnior ou Software Tester.
 
 ## Competências técnicas
 
